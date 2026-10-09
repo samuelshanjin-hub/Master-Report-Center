@@ -6,9 +6,10 @@
 Master Report Center provides four reporting workflows: Split Reports, Consolidate Reports, Synchronize Reports and Lookup Data.
 
 ## User Guide
-A complete end-user guide for installation, licensing, all four modules, data safety and troubleshooting is available here:
+A complete end-user guide for installation, licensing, all four modules, data safety and troubleshooting is available in two formats:
 
-[Master Report Center v2.0.2 Complete User Guide](docs/Master_Report_Center_User_Guide_v2.0.2.md)
+- [Online User Guide](docs/Master_Report_Center_User_Guide_v2.0.2.md)
+- [PDF User Guide](docs/MRC_User_Guide_v2.0.2.pdf)
 
 ## Requirements
 - Windows 10 or Windows 11
