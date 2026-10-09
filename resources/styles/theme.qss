@@ -1,0 +1,23 @@
+* { font-family: "Segoe UI"; font-size: 10.5pt; }
+QMainWindow, QWidget { background: #111816; color: #E9EFEA; }
+#Sidebar { background: #0B1210; border-right: 1px solid #26332D; }
+#SidebarBrand { color: #D7B35A; font-size: 14pt; font-weight: 700; padding: 18px 8px; }
+#HeaderBrand { color: #D7B35A; font-size: 14pt; font-weight: 700; }
+#PageTitle { color: #F2F6F3; font-size: 22pt; font-weight: 700; }
+#PageSubtitle, #Muted { color: #93A39A; }
+#SectionTitle { color: #D7B35A; font-size: 11pt; font-weight: 700; margin-top: 6px; }
+#BodyText { color: #CAD4CE; }
+#ModuleCard, #Panel { background: #17201D; border: 1px solid #2A3932; border-radius: 10px; padding: 8px; }
+#ModuleCard:hover { border: 1px solid #3F6D55; }
+#ModuleIconText { color: #6DB78B; font-size: 11pt; font-weight: 800; letter-spacing: 1px; }
+#ModuleTitle { color: #F3F4F1; font-size: 15pt; font-weight: 700; }
+QPushButton { min-height: 34px; border-radius: 6px; padding: 0 14px; }
+#PrimaryButton { background: #2D6A4F; color: white; border: 1px solid #3E8B69; font-weight: 600; }
+#PrimaryButton:hover { background: #357A5C; }
+#PrimaryButton:disabled { background: #34403A; color: #79867F; border-color: #465149; }
+#SecondaryButton, #NavButton { background: #18231F; color: #DCE5DF; border: 1px solid #31413A; text-align: left; }
+#SecondaryButton:hover, #NavButton:hover { background: #22332C; border-color: #4B6559; }
+QLineEdit, QPlainTextEdit { background: #0D1412; color: #EAF0EC; border: 1px solid #34443D; border-radius: 6px; padding: 7px; selection-background-color: #2D6A4F; }
+QProgressBar { background: #0D1412; border: 1px solid #34443D; border-radius: 5px; text-align: center; min-height: 20px; }
+QProgressBar::chunk { background: #3E8B69; border-radius: 4px; }
+#Divider { color: #2A3932; }

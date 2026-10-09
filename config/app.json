@@ -1,0 +1,8 @@
+{
+  "window": {
+    "width": 1180,
+    "height": 800
+  },
+  "brand": "Golden Fir Solutions",
+  "default_engine": "pandas"
+}

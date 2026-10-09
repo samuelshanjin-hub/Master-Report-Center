@@ -1,0 +1,14 @@
+{
+  "split": {
+    "group_column": "Supplier"
+  },
+  "synchronize": {
+    "match_columns": [
+      "PO",
+      "Style"
+    ]
+  },
+  "lookup": {
+    "only_fill_blank": true
+  }
+}

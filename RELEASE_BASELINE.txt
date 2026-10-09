@@ -1,0 +1,4 @@
+Master Report Center v2.0.2
+Golden Fir Solutions
+GitHub / Microsoft Store clean release-candidate baseline
+Desktop source baseline: home-PC Publish Version 2.0.2 candidate
