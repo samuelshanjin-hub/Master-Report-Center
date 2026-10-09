@@ -1,9 +1,14 @@
-# Master Report Center v2.0.2 — GitHub Release Candidate
+# Master Report Center v2.0.2
 **Publisher:** Golden Fir Solutions  
 **Platform:** Windows 10/11  
 **Application version:** 2.0.2
 
 Master Report Center provides four reporting workflows: Split Reports, Consolidate Reports, Synchronize Reports and Lookup Data.
+
+## User Guide
+A complete end-user guide for installation, licensing, all four modules, data safety and troubleshooting is available here:
+
+[Master Report Center v2.0.2 Complete User Guide](docs/Master_Report_Center_User_Guide_v2.0.2.md)
 
 ## Requirements
 - Windows 10 or Windows 11
@@ -23,5 +28,5 @@ Runtime state is stored outside the application installation folder under:
 ## Building
 Run `build_release.bat`. The release build uses PyInstaller ONEDIR and creates `dist\Master Report Center\`.
 
-## Release warning
-This package is the Version 2.0.2 release source baseline. The Cloudflare licensing backend and PayPal payment flow have been validated against the production/live environment, including purchase, activation, recovery, device migration, refund and post-refund license revocation.
+## Release status
+This repository contains the Version 2.0.2 public release source baseline. The Cloudflare licensing backend and PayPal payment flow have been validated against the production/live environment, including purchase, activation, recovery, device migration, refund and post-refund license revocation.
